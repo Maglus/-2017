@@ -30,3 +30,8 @@ Literature:
 10.Издательский дом "Вильямс" [Электронный ресурс] - Режим доступа: http://www.williamspublishing.com/PDF/978-5-8459-1829-1/part.pdf, 
 свободный. - Загл. с экрана (дата обращения: 24.04.2017).
 
+11.IBM. Processing large-scale graph data: A guide to current technology [Электронный ресурс] - Режим доступа: https://www.ibm.com/developerworks/library/os-giraph/, 
+свободный. - Загл. с экрана (дата обращения: 26.04.2017).
+
+12.Pregel - ACM Digital Library [Электронный ресурс] - Режим доступа: http://dl.acm.org/citation.cfm?id=1807184, 
+свободный. - Загл. с экрана (дата обращения: 26.04.2017).
