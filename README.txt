@@ -39,7 +39,7 @@ Literature:
 13.Ресурс для IT-специалистов. SQL или NoSQL [Электронный ресурс] - Режим доступа: https://habrahabr.ru/company/ruvds/blog/324936/, 
 свободный. - Загл. с экрана (дата обращения: 27.04.2017).
 
-14.Технической документации Майкрософт [Электронный ресурс] - Режим доступа: https://docs.microsoft.com/ru-ru/azure/documentdb/documentdb-nosql-vs-sql, 
+14.Техническая документации Майкрософт [Электронный ресурс] - Режим доступа: https://docs.microsoft.com/ru-ru/azure/documentdb/documentdb-nosql-vs-sql, 
 свободный. - Загл. с экрана (дата обращения: 27.04.2017).
 
 15.Ресурс для IT-специалистов. MySQL vs Neo4j [Электронный ресурс] - Режим доступа: https://habrahabr.ru/post/258179/, 
@@ -48,4 +48,5 @@ Literature:
 16.What is Neo4j? [Электронный ресурс] - Режим доступа: https://neo4j.com/developer/graph-database/#_what_is_neo4j, 
 свободный. - Загл. с экрана (дата обращения: 01.05.2017).
 
-
+17.Chapter 3. Cypher [Электронный ресурс] - Режим доступа: http://neo4j.com/docs/developer-manual/current/cypher/, 
+свободный. - Загл. с экрана (дата обращения: 01.05.2017).
